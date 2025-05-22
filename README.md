@@ -79,3 +79,4 @@ Support for softmax, tanh
 
 MNIST or Iris dataset
 
+# ^^
